@@ -43,10 +43,6 @@
 
 *25€ for automine is crazy work fr fr.*
 
-<p align="center">
-  <img src="./assets/asset3.png" alt="Future Client Showcase" width="600"/>
-</p>
-
 ---
 
 # INSTALLATION / USAGE
