@@ -10,7 +10,7 @@
 
 > **Cracked by:** OwnedMe (*Professional Future Enjoyer*)  
 > **Moral Support:** ZANE (*Certified Emotional Support*)  
-> **Special Thanks:** Turkish (*Tinkoprof*) & Ivantard larpers for their incredible moral support.
+> **Special Thanks:** Turkish (*Tinkoprof*) & Ivantard larpers for their incredible moral support. и Thank you, HARDERBAN, for smoking шишки 4 days ago.
 
 *Future Client V3.1 has officially been cracked by Cooperative Karaboga. Another day, another $25 Minecraft client getting absolutely cooked.*
 
