@@ -1,7 +1,7 @@
 # FUTURE CLIENT V3.1 CRACK
 
 <p align="center">
-  <img src="./assets/LOL.png" alt="Future Client V3.1 Crack Banner" width="500"/>
+  <svg src="./assets/futurio.svg" alt="Future Client V3.1 Crack Banner" width="500"/>
 </p>
 
 <p align="center">
