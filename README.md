@@ -1,7 +1,7 @@
 # FUTURE CLIENT V3.1 CRACK
 
 <p align="center">
-  <svg src="./assets/futurio.svg" alt="Future Client V3.1 Crack Banner" width="500"/>
+  <img src="./assets/futurio.svg" alt="Future Client V3.1 Crack Banner" width="500"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,8 @@
 
 > **Cracked by:** OwnedMe (*Professional Future Enjoyer*)  
 > **Moral Support:** ZANE (*Certified Emotional Support*)  
-> **Special Thanks:** Turkish (*Tinkoprof*) & Ivantard larpers for their incredible moral support. и Thank you, HARDERBAN, for smoking шишки 4 days ago.
+> **Special Thanks:** Turkish (*Tinkoprof*) & Ivantard larpers for their incredible moral support.  
+> **Honorable Mention:** HARDERBAN for the legendary "шишки" incident four days ago. (*Allegedly. We don't ask questions.* 💀)
 
 *Future Client V3.1 has officially been cracked by Cooperative Karaboga. Another day, another $25 Minecraft client getting absolutely cooked.*
 
@@ -37,6 +38,8 @@
 *Shoutout to ZANE for the emotional support throughout this incredibly difficult journey of doing absolutely nothing.*
 
 *Also special thanks to Turkish (Tinkoprof) and Ivantard larpers for keeping the comedy alive.*
+
+*And of course, HARDERBAN. Whatever happened four days ago, bro was allegedly on another planet. 💀*
 
 *25€ for automine is crazy work fr fr.*
 
@@ -84,4 +87,4 @@
   <i>Cooperative Karaboga © 2026 — We do a little trolling.</i>
 </p>
 
-*Disclaimer: Created for educational and research purposes.*
+*Disclaimer: Created for educational and research purposes. All jokes and references to individuals are intended as satire, not factual allegations.*
