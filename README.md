@@ -55,9 +55,31 @@
 
 *congratulations, you can now mine blocks without financially supporting the minecraft industrial complex.*
 
+---
+
+<h2 align="center">🎬 FUTURE CLIENT V3.1 — SHOWCASE</h2>
+
 <p align="center">
-  <img src="./assets/asset4.png" alt="Future Client In-Game Showcase" width="600"/>
+  <i>See the crack in action. No bullshit, just gameplay.</i>
 </p>
+
+<p align="center">
+  <a href="https://youtu.be/7-O5hLTiYFQ">
+    <img src="https://img.youtube.com/vi/7-O5hLTiYFQ/hqdefault.jpg" alt="Future Client V3.1 Crack Showcase" width="640"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/7-O5hLTiYFQ">
+    <img src="https://img.shields.io/badge/▶_WATCH_FULL_SHOWCASE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>🔥 Future Client V3.1 | Cooperative Karaboga © 2026</sub>
+</p>
+
+---
 
 ---
 
