@@ -33,6 +33,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/future_logo.png" alt="Future Client V3.1 Crack Banner" width="500"/>
+</p>
+
 # RANDOM BULLSHIT
 
 *Shoutout to ZANE for the emotional support throughout this incredibly difficult journey of doing absolutely nothing.*
