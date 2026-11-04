@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="center">🎬 FUTURE CLIENT V3.1 — SHOWCASE</h2>
+<h2 align="center">FUTURE CLIENT V3.1 — crystalpvp.cc</h2>
 
 <p align="center">
   <i>See the crack in action. No bullshit, just gameplay.</i>
